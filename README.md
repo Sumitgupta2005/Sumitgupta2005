@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Sumit , a BCA student with a strong interest in Data science, <br>web development and programming.<br> I enjoy learning how things work behind the scenes <br><br>I’m currently exploring APIs, async JavaScript, <br>and I like solving problems by writing clean and simple code.<br> I’m always eager to learn new technologies, improve my skills,<br> and grow as a developer through hands-on practice.<br>
+Hi, I’m Sumit, a BCA student with a strong interest in Data Science. Currently pursuing my degree at JIMS Vasant kunj. Learn more about my college here: https://jimsd.org, <br>web development and programming.<br> I enjoy learning how things work behind the scenes <br><br>I’m currently exploring APIs, async JavaScript, <br>and I like solving problems by writing clean and simple code.<br> I’m always eager to learn new technologies, improve my skills,<br> and grow as a developer through hands-on practice.<br>
 
 
 ## 🌐 Socials:
